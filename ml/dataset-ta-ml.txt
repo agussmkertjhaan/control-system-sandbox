@@ -1,2 +1,0 @@
-Dataset is image collection like anorganik and organik category.
-Images are 184 anroganik and 236 organik counted.
